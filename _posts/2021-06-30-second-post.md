@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 comments: true
 date: 2021-06-30
 title: "Github Page Jekyll 에 카테고리 추가하기"
